@@ -1,0 +1,27 @@
+body {
+  width: 100%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+div {
+  width: 100%;
+  display: block;
+  margin: 8px;
+}
+button {
+  width: 33%;
+  font-size: 50px;
+  border: solid 30px darkslategray;
+  background-color: lightgrey;
+  border-radius: 10px;
+  height: 200px;
+  cursor: pointer;
+}
+.last-button {
+  width: 100%;
+  color: deeppink;
+  font-weight: bold;
+  text-align: right;
+  font-style: italic;
+  text-align: center;
+  cursor: pointer;
+}
